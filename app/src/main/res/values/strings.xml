@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lumOS</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="intensity">Intensity</string>
+    <string name="light_color">Light color</string>
+    <string name="welcome">Welcome</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="scanning">Scanning...</string>
+    <string name="connecting">Connecting...</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="bluetooth_is_disabled">Bluetooth is disabled</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="bluetooth_is_required_for_this_feature_please_enable_bluetooth">Bluetooth is required for this feature. Please enable Bluetooth.</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="this_feature_requires_permission_to_access_bluetooth_please_grant_the_permission">This feature requires permission to access Bluetooth. Please grant the permission.</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="scan_begins">Scan begins</string>
+    <string name="connected_device">Connected device</string>
+</resources>

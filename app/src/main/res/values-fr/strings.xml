@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lumOS</string>
+    <string name="on">ALLUMÉ</string>
+    <string name="off">ÉTEINT</string>
+    <string name="intensity">Intensité</string>
+    <string name="light_color">Couleur de la lumière</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="start_scan">Début du Scan</string>
+    <string name="scanning">Recherche...</string>
+    <string name="connecting">Connexion...</string>
+    <string name="unknown_device">Appareil inconnu</string>
+    <string name="bluetooth_is_disabled">Le Bluetooth est désactivé</string>
+    <string name="enable_bluetooth">Activer Bluetooth</string>
+    <string name="bluetooth_is_required_for_this_feature_please_enable_bluetooth">Le Bluetooth est requis pour cette fonctionnalité. Veuillez activer le Bluetooth.</string>
+    <string name="confirm">Confirmer</string>
+    <string name="dismiss">Rejeter</string>
+    <string name="permission_required">Autorisation requise</string>
+    <string name="this_feature_requires_permission_to_access_bluetooth_please_grant_the_permission">Cette fonctionnalité nécessite une autorisation pour accéder au Bluetooth. Veuillez accorder cette autorisation.</string>
+    <string name="request_permission">Demander la permission</string>
+    <string name="scan_begins">La recherche commence</string>
+    <string name="connected_device">Appareil connecté</string>
+</resources>
